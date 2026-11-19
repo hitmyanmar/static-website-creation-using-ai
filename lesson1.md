@@ -1,4 +1,4 @@
-**# Build a Website with AI
+# Build a Website with AI
 
 **Participant Prompt Pack · SME Hub Asia · 21 November 2026**  
 **Trainer · Ye Myint Soe**
@@ -404,4 +404,4 @@ Please send the complete [index.html or content.js] from beginning to end in one
 
 **A custom domain** is an optional address for the same website. You can use the hosting link during class. If you later register a domain, add it to your hosting project, follow the DNS instructions provided by the host, and test the new address.
 
-**For a production website**, replace the workshop’s Tailwind Play CDN setup with compiled CSS. The workshop version uses the CDN so you can build and preview the page without installing development tools. [Tailwind Play CDN documentation](https://tailwindcss.com/docs/installation/play-cdn)**
+**For a production website**, replace the workshop’s Tailwind Play CDN setup with compiled CSS. The workshop version uses the CDN so you can build and preview the page without installing development tools. [Tailwind Play CDN documentation](https://tailwindcss.com/docs/installation/play-cdn)
