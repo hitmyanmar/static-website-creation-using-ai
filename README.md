@@ -1,4 +1,4 @@
-# Build a Website with AI
+# Build a Static Website with AI
 
 **Participant Prompt Pack · SME Hub Asia**  
 **Trainer · Ye Myint Soe (HiT, Ziigwat POS)**
