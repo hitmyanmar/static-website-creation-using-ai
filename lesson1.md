@@ -84,7 +84,7 @@ Use plain HTML and JavaScript. Store the editable information in window.siteCont
 Use Tailwind CSS v4 through this exact script in the HTML head:
 <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 
-Use complete Tailwind class names. Load a suitable Google Font with a system font fallback. For Burmese text, use Noto Sans Myanmar or another font that supports Myanmar Unicode. Load only the font weights used. Use Lucide icons through a CDN if they help visitors. Keep important actions understandable if the icons fail to load.
+Use complete Tailwind class names. Load a suitable Google Font through a CDN with a system font fallback. For Burmese text, use Noto Sans Myanmar or another font that supports Myanmar Unicode. Load only the font weights used. Use Lucide icons through a CDN if they help visitors. Keep important actions understandable if the icons fail to load.
 
 Use safe DOM methods such as textContent for editable text. Make controls keyboard-friendly, show visible keyboard focus, and avoid sideways scrolling on phones. Keep animations minimal. Keep the website frontend-only. Do not add login, checkout, payments, booking systems, or forms that need a server.
 
