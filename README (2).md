@@ -93,7 +93,9 @@ Use plain HTML and JavaScript. Store editable content in window.siteContent in c
 
 Do not require npm, frameworks, builds, JavaScript modules, fetch(), or a local server. The page must open by double-clicking index.html when internet is available for Tailwind. Use complete literal Tailwind class names. Insert content text safely with textContent or equivalent safe DOM methods. Keep image paths relative and handle missing photos without broken-image icons. Include meaningful image descriptions, keyboard-friendly controls, and visible keyboard focus. Avoid horizontal scrolling on small screens.
 
-Do not add login, checkout, payments, booking systems, or forms that need a server. Do not require external fonts or icon libraries. Keep code simple and animations minimal.
+Do not add login, checkout, payments, booking systems, or forms that need a server. Do not add login, checkout, payments, booking systems, or forms that need a server. Use Google Fonts to match the site's style. Choose fonts that support the website's language. For Burmese text, use Noto Sans Myanmar or another font with Myanmar Unicode support. Load only the font weights you use and include a system font fallback. Use Lucide icons if necessary via its CDN where they help visitors understand an action or find information. Keep text labels for important actions, or give icon-only buttons accessible names. If the icon script fails to load, the page should still be usable.
+
+Keep the code simple and animations minimal. The website must open directly from index.html without npm or a build step. Mention in the setup instructions that internet access is needed to load Tailwind, Google Fonts, and Lucide from their CDNs.
 
 WHAT TO RETURN
 Return the complete index.html and content.js in separate labeled code blocks. Do not omit code or give partial snippets. If you can also provide downloadable files, include them with the exact filenames.
