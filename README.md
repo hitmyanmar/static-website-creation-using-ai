@@ -180,11 +180,15 @@ Website language: Burmese for the introduction and descriptions. Keep my name, t
 Colors and style: Cream and navy. Use a simple layout with enough space to see each design clearly.
 
 PAGE CONTENT AND DESIGN
-Choose the sections, their names, and their order based on my answers. Include the sections I request. If I leave the layout open, choose one that suits my content. A short introduction can be enough. Use navigation only when it helps visitors. If I give a main visitor action, make it easy to find and make sure it works.
+Build the page around what I want visitors to know, see, or do. Include any sections I request. If I leave the layout open, choose headings and an order that fit the information I provide. A short introduction can be enough. If I give a main visitor action, make it easy to find and make sure it leads to the right section or link.
 
-Use only the facts I supply. Omit anything I mark Skip or leave empty, along with its menu link. Use public contact details only if I supply them for publication. If I mark a detail as a sample, keep it clearly labeled and unlinked. If I give no contact details, leave out contact buttons and messages about adding details later.
+Use only the facts I supply. Leave out anything I mark “Skip” or leave empty, including its menu link. Use contact details only when I provide them for public display. If I mark a contact detail as a sample, label it as an example and show it as plain text. If I provide no contact details, leave out contact buttons and “coming soon” messages.
 
-Use my chosen language and keep names and titles as supplied. For Burmese, use natural wording, comfortable line spacing, and buttons tall enough to show the full text. Make the page easy to read and use on a phone.
+Use my chosen language and keep names and titles as supplied. For Burmese, use natural wording, comfortable line spacing, and enough room above and below the text so letters display fully in headings, buttons, and menu links.
+
+Use navigation only when it helps visitors move between sections. On wide screens, show the navigation links in one row. On phones, keep the site name on the left and show a three-line menu button (☰) on the right. Start with the links hidden. Tapping the button opens the links in a vertical list below the header. Tapping it again closes the list. Choosing a link closes the menu and takes the visitor to that section. Switch to the menu button before the links wrap or crowd the site name.
+
+Make the menu button usable with a keyboard and give it a clear name for screen readers. Make links and buttons easy to tap, keep text readable, and ensure the page fits the phone screen without sideways scrolling.
 
 PHOTOS
 Use local photos from an images folder where they suit my content. Respect any filenames I provide. If a photo is expected but its path is empty or the file cannot load, show a labeled placeholder that fits the layout. If a section needs no photo, use a text layout. Give meaningful descriptions to informative images.
