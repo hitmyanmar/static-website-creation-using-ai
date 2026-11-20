@@ -106,20 +106,32 @@ Copy this whole block to practise with **Shwe Eain Bakery & Snack**. Notice wher
 You are a web designer helping me create my first website. Build a mobile-friendly, one-page website using my information below.
 
 MY WEBSITE INFORMATION
-What this website is for: Introduce Shwe Eain Bakery & Snack and give people one page where they can browse what we make before visiting.
-Name to display: Shwe Eain Bakery & Snack
-Who should visit: People in Yangon looking for everyday treats, gifts, or snacks to share at a gathering.
+
+What this website is for: Create a personal portfolio I can share when applying for a design internship. I want visitors to see my work, understand the choices I made, and learn what opportunities interest me.
+
+Name to display: Thiri Aung
+
+Who should visit: Design internship recruiters and people who might like to collaborate with me on student projects.
+
 What visitors should know or see:
-- We are a small Yangon bakery offering cakes, cookies, and snacks.
-- Butter Cookies — Butter cookies for everyday treats and gifts. 8,000 MMK per box. Photo: images/butter-cookies.jpg
-- Banana Cake — A banana cake to enjoy with tea or share with family. 6,000 MMK per loaf. Photo: images/banana-cake.jpg
-- Brownies — Chocolate brownies for sharing and celebrations. 12,000 MMK per box. Photo: images/brownies.jpg
-- We also make custom birthday cakes, event snack boxes, and bulk orders for offices and celebrations.
-- Location: Yangon, Myanmar. Opening hours: Daily, 9 AM–6 PM.
-What visitors should do next: Tap a button near the top to see our baked items and prices on this page.
-Anything to include or leave out: Use images/hero.jpg for the main bakery photo. Show our opening hours where they are easy to find. Leave out phone, email, Facebook, and street address. We have no public contact links to share yet.
-Website language: Natural Burmese for descriptions, headings, and buttons. Keep the bakery name and the three product names in English.
-Colors and style: Warm cream, golden brown, and dark brown. I want the page to feel welcoming, like a neighborhood bakery.
+- Introduction: Introduce me in one short sentence as a student learning visual design through class assignments and personal practice.
+- Selected Work: Show both designs in full. Place each project title and a short first-person caption directly below its image.
+  1. Tea Shop Poster — I made this practice poster to explore how lettering and color could give a neighborhood tea shop its own character. Image: images/tea-shop-poster.jpg
+  2. Campus Event Graphics — For a class assignment, I designed two social media posts for the same campus event. Image: images/campus-event-graphics.jpg
+- About Me: Use this idea for a short first-person paragraph: “When I see a poster, I pay attention to which words I read first. In my own designs, I like moving a headline or changing a color to see where my eye goes next.”
+- Skills & Tools: I’m practicing layout, typography, and basic photo editing. Describe each tool through one example:
+  - Canva — For my Tea Shop Poster, I tried different font sizes and colors to make the shop name stand out.
+  - Figma — For my Campus Event Graphics, I used the same spacing, colors, and text styles across both posts so people could recognize them as a pair.
+  - Adobe Photoshop — I’m learning to crop and straighten photos and adjust their brightness before placing them in a design.
+- Contact & Collaboration: Say that I’m interested in design internships and student collaborations. Display thiri@example.com as plain text and clearly label it as a sample email.
+
+What visitors should do next: Tap “View my work” to jump directly to Selected Work. Make the contact section easy to find after visitors have explored the designs.
+
+Anything to include or leave out: Use this order: Introduction, Selected Work, About Me, Skills & Tools, then Contact & Collaboration. Let the two designs be the main images. Leave out a profile photo, skill ratings, testimonials, and work experience.
+
+Website language: Use natural Burmese for the introduction, section headings, captions, tool descriptions, and contact note. Keep my name, the two project titles, the tool names, and the “View my work” button in English.
+
+Colors and style: Give my portfolio the look of a contemporary design magazine. Use a cool, paper-white background (#F8FAFC), near-black text (#18181B), and cobalt blue (#2446C8) for links and the “View my work” button. Use white text on the blue button. Make my name the largest text in the opening section. Place my short Burmese introduction underneath, with comfortable line spacing, followed by the “View my work” button. Use thin gray lines to separate sections. Let the artwork bring its own colors to the page. Show each design in full on white with a subtle gray border. Preserve its original proportions so visitors can see the edges and read the lettering. On phones, show one piece per row with its title and caption directly below.
 
 PAGE CONTENT AND DESIGN
 Build the page around what I want visitors to know, see, or do. Include any sections I request. If I leave the layout open, choose headings and an order that fit the information I provide. A short introduction can be enough. If I give a main visitor action, make it easy to find and make sure it leads to the right section or link.
